@@ -20,21 +20,21 @@ export default function Homepage() {
     {
       imgSrc: featureTile01,
       imgAlt: "Feature tile icon 01",
-      title: "Join BWA",
+      title: "Join BWA 1",
       description:
         "A pseudo-Latin text used in web design, layout, and printing in place of things to emphasise design.",
     },
     {
       imgSrc: featureTile02,
       imgAlt: "Feature tile icon 01",
-      title: "Join BWA",
+      title: "Join BWA 2",
       description:
         "A pseudo-Latin text used in web design, layout, and printing in place of things to emphasise design.",
     },
     {
       imgSrc: featureTile03,
       imgAlt: "Feature tile icon 01",
-      title: "Join BWA",
+      title: "Join BWA 3",
       description:
         "A pseudo-Latin text used in web design, layout, and printing in place of things to emphasise design.",
     },
